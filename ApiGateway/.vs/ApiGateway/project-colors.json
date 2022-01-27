@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "535c8c25-99aa-4117-ab43-a7d7c0ec178f": {
+      "ProjectGuid": "535c8c25-99aa-4117-ab43-a7d7c0ec178f",
+      "DisplayName": "ApiGateway",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

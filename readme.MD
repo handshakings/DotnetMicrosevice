@@ -28,3 +28,10 @@
     - add-migration initial
     - update-database
 - Create UserController and write http methods
+
+
+# API Gateway (Ocelot Gateway)
+- Create .net core web app for API gateway. All users can access any microservice through API Gateway.
+- Install ocelot gateway nuget package
+- create ocelot.json file in root path for microservices routing and write routing configuration
+- Declare routing configurtion in program.cs file

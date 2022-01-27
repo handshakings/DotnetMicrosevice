@@ -5,7 +5,22 @@
       "ProjectGuid": "18896827-2f05-4be1-8943-e59d38b8aff1",
       "DisplayName": "UserService",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a68661e7-dab8-4ec9-810d-22c151cf5e7e": {
+      "ProjectGuid": "a68661e7-dab8-4ec9-810d-22c151cf5e7e",
+      "DisplayName": "ApiGateway",
+      "ColorIndex": 1
+    },
+    "19a66631-2271-4b0e-b0cf-2a9d6307c9f9": {
+      "ProjectGuid": "19a66631-2271-4b0e-b0cf-2a9d6307c9f9",
+      "DisplayName": "ApiGateway",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
